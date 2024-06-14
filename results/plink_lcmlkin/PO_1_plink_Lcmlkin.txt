@@ -1,0 +1,361 @@
+IID1	FID2	IID2	RT	EZ	Z0	Z1	Z2	PI_HAT	PHE	DST	PPC	RATIO	cov	deamination	kinship	degree	program	RMSE
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.800728	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0067	0.8808	0.1125	0.5529	-1	0.82725	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80342	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80237	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.802598	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.802716	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.802948	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.801808	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0089	0.9911	0.0	0.4956	-1	0.803463	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0097	0.9903	0.0	0.4951	-1	0.80324	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802103	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802006	1.0	98.5	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0087	0.9913	0.0	0.4957	-1	0.803955	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0094	0.9906	0.0	0.4953	-1	0.803428	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.802861	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.1749	0.8112	0.0139	0.4195	-1	0.789181	1.0	15.5833	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.1503	0.7162	0.1336	0.4916	-1	0.815148	1.0	18.9	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.1744	0.8011	0.0245	0.425	-1	0.791285	1.0	14.3077	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.1616	0.8243	0.0141	0.4262	-1	0.790726	1.0	10.7059	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.1581	0.8257	0.0162	0.429	-1	0.791528	1.0	11.4375	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.1699	0.8102	0.0198	0.4249	-1	0.790894	1.0	15.5833	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.1645	0.816	0.0195	0.4275	-1	0.791459	1.0	21.1111	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.1634	0.8229	0.0138	0.4252	-1	0.790471	1.0	15.5833	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.1704	0.8069	0.0227	0.4262	-1	0.791402	1.0	9.4737	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.1702	0.8067	0.0231	0.4265	-1	0.791499	1.0	9.4737	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.1692	0.8141	0.0166	0.4237	-1	0.790357	1.0	13.2143	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.169	0.8146	0.0164	0.4237	-1	0.79035	1.0	18.9	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.1708	0.8016	0.0276	0.4284	-1	0.792293	1.0	8.0455	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.1584	0.8236	0.018	0.4298	-1	0.791843	1.0	13.2143	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.1752	0.802	0.0228	0.4238	-1	0.790881	1.0	12.2667	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	1.0	0.0	0.0	0.0	-1	0.726718	0.0	0.2532	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	1.0	0.0	0.0	0.0	-1	0.753917	0.0	0.3469	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	1.0	0.0	0.0	0.0	-1	0.730894	0.0	0.4245	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.729685	0.0	0.3873	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	1.0	0.0	0.0	0.0	-1	0.731171	0.0	0.4143	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	1.0	0.0	0.0	0.0	-1	0.731303	0.0	0.4776	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	1.0	0.0	0.0	0.0	-1	0.730374	0.0	0.4245	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.730621	0.0	0.3681	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	1.0	0.0	0.0	0.0	-1	0.728717	0.0	0.3493	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.730145	0.0	0.3873	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	1.0	0.0	0.0	0.0	-1	0.727775	0.0	0.3378	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	1.0	0.0	0.0	0.0	-1	0.729077	0.0	0.3655	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	1.0	0.0	0.0	0.0	-1	0.730669	0.0	0.375	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	1.0	0.0	0.0	0.0	-1	0.731637	0.0	0.3133	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	1.0	0.0	0.0	0.0	-1	0.729874	0.0	0.2692	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.8016	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0	0.8874	0.1126	0.5563	-1	0.828055	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80421	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80325	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.80361	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.803515	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80375	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80267	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80424	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80406	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802895	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.80296	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80477	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804175	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803755	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.7898	0.0	0.2102	0.2102	-1	0.758006	0.1457	1.7123	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.7004	0.0115	0.2881	0.2938	-1	0.78335	0.1829	1.75	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.7572	0.0393	0.2034	0.2231	-1	0.760589	0.1139	1.6757	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.7679	0.0254	0.2067	0.2194	-1	0.760007	0.0174	1.475	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.7809	0.0117	0.2074	0.2133	-1	0.75868	0.0874	1.64	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.767	0.0301	0.2029	0.2179	-1	0.759372	0.3815	1.9118	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.7642	0.0376	0.1982	0.217	-1	0.758786	0.0352	1.5385	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.7826	0.0062	0.2112	0.2143	-1	0.759213	0.0079	1.4146	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.7656	0.0304	0.204	0.2192	-1	0.759756	0.0052	1.3855	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.767	0.0299	0.2031	0.218	-1	0.759415	0.0352	1.5385	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.7788	0.0138	0.2074	0.2143	-1	0.75892	0.3255	1.8696	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.7728	0.0254	0.2018	0.2145	-1	0.758519	0.0033	1.3571	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.7738	0.018	0.2082	0.2172	-1	0.759623	0.0009	1.2874	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.7689	0.0257	0.2054	0.2183	-1	0.759652	0.0119	1.4444	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.7739	0.0246	0.2016	0.2138	-1	0.758344	0.2733	1.8286	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.80136	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0021	0.8851	0.1127	0.5553	-1	0.82783	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80402	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803055	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.803355	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.8033	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80344	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802445	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80403	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803765	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.80262	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.80271	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80462	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804015	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803485	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.800868	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0005	0.8907	0.1088	0.5541	-1	0.826885	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80344	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802365	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.802771	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.802578	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.802838	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.801873	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.803445	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803155	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.80194	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802118	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804107	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.803394	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.80297	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.797881	1.0	65.3333	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0145	0.8815	0.104	0.5447	-1	0.82355	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0162	0.9838	0.0	0.4919	-1	0.800728	1.0	48.75	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.799916	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.799799	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0172	0.9828	0.0	0.4914	-1	0.79956	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0183	0.9817	0.0	0.4908	-1	0.799768	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.799236	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0151	0.9849	0.0	0.4925	-1	0.800729	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0137	0.9863	0.0	0.4931	-1	0.800724	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.799601	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.799329	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0137	0.9863	0.0	0.4931	-1	0.800754	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0168	0.9832	0.0	0.4916	-1	0.80007	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.800222	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.7875	0.0	0.2125	0.2125	-1	0.75	0.0016	1.314	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.7197	0.0	0.2803	0.2803	-1	0.775577	0.0008	1.2759	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.7837	0.0	0.2163	0.2163	-1	0.752311	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.7893	0.0	0.2107	0.2107	-1	0.750604	0.0	1.1522	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.7847	0.0	0.2153	0.2153	-1	0.752072	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.7845	0.0	0.2155	0.2155	-1	0.751753	0.0008	1.2759	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.7877	0.0	0.2123	0.2123	-1	0.750471	0.0486	1.5714	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.7846	0.0	0.2154	0.2154	-1	0.752455	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.784	0.0	0.216	0.216	-1	0.752846	0.0001	1.1868	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.7857	0.0	0.2143	0.2143	-1	0.752792	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.7886	0.0	0.2114	0.2114	-1	0.750319	0.0	1.1064	1	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.7872	0.0	0.2128	0.2128	-1	0.750706	0.0	1.0204	1	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.7858	0.0	0.2142	0.2142	-1	0.752152	0.0079	1.4146	1	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.7863	0.0	0.2137	0.2137	-1	0.751369	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.7859	0.0	0.2141	0.2141	-1	0.751652	0.0001	1.1758	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.801495	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0	0.8878	0.1122	0.5561	-1	0.82795	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80409	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803175	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.80355	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.80339	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.803665	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80261	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80414	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803985	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802875	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802908	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80471	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80411	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803645	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.2338	0.7468	0.0194	0.3928	-1	0.782235	1.0	7.2917	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.2051	0.658	0.1369	0.4659	-1	0.808403	1.0	6.6538	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.2297	0.7396	0.0308	0.4005	-1	0.784914	1.0	12.2667	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.2281	0.7452	0.0267	0.3993	-1	0.784305	1.0	8.4762	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.2315	0.742	0.0265	0.3975	-1	0.783887	1.0	8.0455	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.2273	0.7452	0.0275	0.4001	-1	0.784555	1.0	8.4762	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.221	0.7551	0.0239	0.4015	-1	0.784574	1.0	7.6522	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.2314	0.7425	0.0261	0.3973	-1	0.783802	1.0	6.1071	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.2268	0.7434	0.0298	0.4015	-1	0.785063	1.0	8.0455	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.2237	0.7489	0.0275	0.4019	-1	0.784964	1.0	10.7059	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.2268	0.7468	0.0264	0.3998	-1	0.784383	1.0	10.0556	2	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.2298	0.746	0.0241	0.3971	-1	0.783603	1.0	8.95	2	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.2245	0.7444	0.0311	0.4033	-1	0.785568	1.0	15.5833	2	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.2278	0.7441	0.0282	0.4002	-1	0.78462	1.0	8.4762	2	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.2298	0.7436	0.0265	0.3983	-1	0.78407	1.0	8.0455	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.801023	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0	0.8901	0.1099	0.5549	-1	0.827273	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.803693	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802558	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.803025	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.80296	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.803215	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802125	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.803675	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803475	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802333	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802155	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80426	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.803725	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803303	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.800929	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0086	0.8777	0.1137	0.5525	-1	0.827273	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0107	0.9893	0.0	0.4946	-1	0.803334	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802406	1.0	65.3333	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.802898	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.802585	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0107	0.9893	0.0	0.4946	-1	0.802898	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.801975	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.803533	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0111	0.9889	0.0	0.4945	-1	0.803135	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802243	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802141	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0087	0.9913	0.0	0.4957	-1	0.803921	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0094	0.9906	0.0	0.4953	-1	0.803343	1.0		8	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.802968	1.0	198.0	8	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.1734	0.813	0.0137	0.4202	-1	0.78933	1.0	17.0909	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.1471	0.7214	0.1314	0.4922	-1	0.815112	1.0	23.875	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.1662	0.8134	0.0204	0.4271	-1	0.791431	1.0	11.4375	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.1662	0.8186	0.0151	0.4244	-1	0.790417	1.0	6.96	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.1637	0.8182	0.0181	0.4272	-1	0.791285	1.0	8.4762	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.1692	0.8114	0.0195	0.4251	-1	0.790923	1.0	11.4375	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.1632	0.8155	0.0213	0.4291	-1	0.791959	1.0	15.5833	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.1656	0.8188	0.0156	0.425	-1	0.790572	1.0	10.0556	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.1726	0.8032	0.0242	0.4258	-1	0.791448	1.0	15.5833	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.1659	0.8139	0.0202	0.4272	-1	0.791437	1.0	11.4375	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.1775	0.8022	0.0203	0.4214	-1	0.790147	1.0	12.2667	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.1734	0.8073	0.0193	0.4229	-1	0.790401	1.0	12.2667	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.1706	0.8041	0.0254	0.4274	-1	0.791908	1.0	17.0909	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.1734	0.8014	0.0252	0.4259	-1	0.791542	1.0	9.4737	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.1688	0.8101	0.0211	0.4261	-1	0.791279	1.0	14.3077	4	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	1.0	0.0	0.0	0.0	-1	0.72746	0.0	0.2774	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	1.0	0.0	0.0	0.0	-1	0.755405	0.0	0.3776	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	1.0	0.0	0.0	0.0	-1	0.729071	0.0	0.3289	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.731906	0.0	0.3221	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	1.0	0.0	0.0	0.0	-1	0.727226	0.0	0.2941	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	1.0	0.0	0.0	0.0	-1	0.72746	0.0	0.3493	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	1.0	0.0	0.0	0.0	-1	0.730086	0.0	0.32	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.73088	0.0	0.3113	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	1.0	0.0	0.0	0.0	-1	0.729856	0.0	0.375	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	1.0	0.0	0.0	0.0	-1	0.73232	0.0	0.3289	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	1.0	0.0	0.0	0.0	-1	0.731391	0.0	0.4593	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	1.0	0.0	0.0	0.0	-1	0.731458	0.0	0.3944	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	1.0	0.0	0.0	0.0	-1	0.732826	0.0	0.3493	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	1.0	0.0	0.0	0.0	-1	0.73204	0.0	0.2692	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	1.0	0.0	0.0	0.0	-1	0.72986	0.0	0.4348	1	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.8016	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0	0.8874	0.1126	0.5563	-1	0.828055	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80421	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80325	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.8036	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.8035	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.803745	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802665	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80424	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.804065	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.8029	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.80296	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804775	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804195	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.80376	1.0		20	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.774	0.0279	0.1981	0.2121	-1	0.757617	0.025	1.5063	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.6741	0.0456	0.2803	0.3031	-1	0.78477	0.3815	1.9118	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.7612	0.0408	0.198	0.2184	-1	0.759041	0.3255	1.8696	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.7688	0.028	0.2032	0.2172	-1	0.759177	0.1139	1.6757	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.7672	0.031	0.2018	0.2173	-1	0.759077	0.025	1.5063	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.7808	0.0118	0.2073	0.2133	-1	0.758621	0.073	1.6184	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.7569	0.0421	0.2009	0.222	-1	0.760085	0.2255	1.7887	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.7852	0.0038	0.2111	0.2129	-1	0.758847	0.3255	1.8696	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.7857	0.0047	0.2096	0.2119	-1	0.758501	0.3255	1.8696	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.7666	0.0302	0.2032	0.2183	-1	0.759423	0.0486	1.5714	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.7812	0.0145	0.2043	0.2116	-1	0.758005	0.2414	1.8028	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.7799	0.0145	0.2056	0.2129	-1	0.758394	0.5	2.0	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.7526	0.0446	0.2029	0.2252	-1	0.760956	0.2255	1.7887	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.7885	0.0	0.2115	0.2115	-1	0.758505	0.0174	1.475	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.7796	0.0109	0.2095	0.2149	-1	0.759175	0.1139	1.6757	2	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.80137	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0032	0.8836	0.1132	0.555	-1	0.827785	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80399	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80299	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.803335	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.80327	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80351	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80246	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80405	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80383	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.80263	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.80268	1.0	198.0	10	no_deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.80449	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.803945	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803525	1.0		10	no_deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.800963	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0001	0.8903	0.1096	0.5547	-1	0.827105	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80335	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802513	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.802885	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.802805	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.802975	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.801878	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.803409	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803414	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802086	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802183	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804045	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.803295	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803006	1.0		8	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.797981	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0152	0.8801	0.1048	0.5448	-1	0.82363	1.0	65.3333	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0172	0.9828	0.0	0.4914	-1	0.800621	1.0	65.3333	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.799927	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0169	0.9831	0.0	0.4916	-1	0.799961	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0182	0.9818	0.0	0.4909	-1	0.799866	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0178	0.9822	0.0	0.4911	-1	0.799755	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.799081	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0169	0.9831	0.0	0.4915	-1	0.800799	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0153	0.9847	0.0	0.4923	-1	0.800569	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.799551	1.0	198.0	4	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.799478	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.015	0.985	0.0	0.4925	-1	0.800981	1.0	98.5	4	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0172	0.9828	0.0	0.4914	-1	0.800631	1.0		4	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0163	0.9837	0.0	0.4919	-1	0.800392	1.0	48.75	4	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.7888	0.0	0.2112	0.2112	-1	0.750641	0.0	1.1398	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.7192	0.0	0.2808	0.2808	-1	0.77518	0.0013	1.3023	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.787	0.0	0.213	0.213	-1	0.751611	0.0001	1.1758	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.7889	0.0	0.2111	0.2111	-1	0.750524	0.0001	1.1758	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.788	0.0	0.212	0.212	-1	0.750306	0.0	1.129	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.7837	0.0	0.2163	0.2163	-1	0.750369	0.0397	1.5513	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.7856	0.0	0.2144	0.2144	-1	0.751786	0.0079	1.4146	1	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.7897	0.0	0.2103	0.2103	-1	0.750455	0.0	1.0204	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.785	0.0	0.215	0.215	-1	0.752783	0.0119	1.4444	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.7886	0.0	0.2114	0.2114	-1	0.750661	0.0	1.1522	1	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.7905	0.0	0.2095	0.2095	-1	0.750281	0.0	1.0625	1	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.7883	0.0	0.2117	0.2117	-1	0.751304	0.0119	1.4444	1	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.784	0.0	0.216	0.216	-1	0.753194	0.0003	1.2247	1	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.7851	0.0	0.2149	0.2149	-1	0.75303	0.0	0.9412	1	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.7866	0.0	0.2134	0.2134	-1	0.751862	0.1245	1.6892	1	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.801553	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0	0.8878	0.1122	0.5561	-1	0.827945	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.804135	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803235	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.803553	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.803415	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80369	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.80261	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.804165	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.804045	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802865	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802908	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804698	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804125	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.80369	1.0		20	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.2295	0.7527	0.0178	0.3942	-1	0.782365	1.0	10.0556	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.2033	0.6647	0.1319	0.4643	-1	0.807596	1.0	12.2667	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.2325	0.7381	0.0294	0.3985	-1	0.784284	1.0	8.4762	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.2267	0.7504	0.0229	0.3981	-1	0.783681	1.0	8.0455	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.2285	0.7447	0.0268	0.3992	-1	0.78424	1.0	9.4737	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.2319	0.7382	0.0298	0.3989	-1	0.784427	1.0	11.4375	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.233	0.7362	0.0308	0.3989	-1	0.784488	1.0	9.4737	2	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.2286	0.7474	0.024	0.3977	-1	0.783684	1.0	8.4762	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.2296	0.7392	0.0312	0.4008	-1	0.784959	1.0	7.6522	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.226	0.7452	0.0288	0.4014	-1	0.784913	1.0	13.2143	2	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.2323	0.7372	0.0305	0.3991	-1	0.784506	1.0	8.0455	2	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.2272	0.7466	0.0263	0.3995	-1	0.784277	1.0	7.2917	2	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.2217	0.7484	0.0299	0.4041	-1	0.785602	1.0	12.2667	2	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.234	0.7342	0.0318	0.3989	-1	0.78457	1.0	9.4737	2	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.2317	0.7409	0.0275	0.3979	-1	0.784003	1.0	13.2143	2	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childD	OT	0	0.0	1.0	0.0	0.5	-1	0.801175	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	childH	OT	0	0.0001	0.889	0.1108	0.5554	-1	0.82746	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80389	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childA	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802735	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childE	OT	0	0.0	1.0	0.0	0.5	-1	0.80306	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	childF	OT	0	0.0	1.0	0.0	0.5	-1	0.802973	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder0	OT	0	0.0	1.0	0.0	0.5	-1	0.80331	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childB	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.802175	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	childG	OT	0	0.0	1.0	0.0	0.5	-1	0.80378	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder1	OT	0	0.0	1.0	0.0	0.5	-1	0.803485	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childC	familyX	founder2	OT	0	0.0	1.0	0.0	0.5	-1	0.802225	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childD	familyX	founder3	OT	0	0.0	1.0	0.0	0.5	-1	0.802318	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childE	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.804315	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childF	familyX	founder4	OT	0	0.0	1.0	0.0	0.5	-1	0.803563	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
+childG	familyX	founder5	OT	0	0.0	1.0	0.0	0.5	-1	0.803235	1.0		10	deam	PO	1	plink_Lcmlkin	0.0
